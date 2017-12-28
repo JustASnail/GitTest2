@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         System.out.println("第一次修改项目内容提交到仓库");
+        System.out.println("我刚才创建了几个分之");
     }
 }
